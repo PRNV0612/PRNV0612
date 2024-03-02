@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Pranav Raj</h1>
 <h3 align="center">A passionate CyberSecurity enthusiast from India</h3>
 
